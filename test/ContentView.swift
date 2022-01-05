@@ -9,6 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+//        HomeView()
+//            .environmentObject(UserData())
+        
         Text("Hello, world!")
             .padding()
     }
